@@ -1,6 +1,10 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
+
 # Ironhack Data Analytics Labs 11 - miami2
+
+
+
 
 ## Getting Started
 
